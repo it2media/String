@@ -2,7 +2,7 @@
   "title": "IT2media.Extensions.String",
   "copyright": "IT2media GmbH & Co. KG 2016",
   "description": "Extension methods for System.String",
-  "version": "1.0.0-*",
+  "version": "1.0.1-*",
   "authors": [ "Markus Malz" ],
 
   "packOptions": {
