@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace IT2media.Extensions.String
+﻿namespace IT2media.Extensions.String
 {
     public static class StringExtensions
     {

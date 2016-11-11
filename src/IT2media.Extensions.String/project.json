@@ -1,4 +1,7 @@
 {
+  "title": "IT2media.Extensions.String",
+  "copyright": "IT2media GmbH & Co. KG 2016",
+  "description": "String extensions by IT2media",
   "version": "1.0.0-*",
   
   "frameworks": {

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IT2media.Extensions.String.xproj</id>
+    <version>1.0.0</version>
+    <authors>Markus Malz</authors>
+    <owners>malzma</owners>
+    <licenseUrl>https://raw.githubusercontent.com/it2media/String/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/it2media/String</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/it2media/Home/master/Logo_IT2media_2015_64x64.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Extension methods for System.String</description>
+    <releaseNotes>Added GetHashCodeUShort</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>String System.String GetHashCode EventID EventId ushort UInt16</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
