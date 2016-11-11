@@ -3,6 +3,25 @@
     public static class StringExtensions
     {
         /// <summary>
+        /// Removes all leading occurrences of a given string from the current string object
+        /// </summary>
+        /// <param name="s"></param>
+        /// <param name="trimString"></param>
+        /// <returns></returns>
+        public static string TrimStart(this string s, string trimString)
+        {
+            if (s == null) return null;
+            if (string.IsNullOrEmpty(trimString)) return s;
+
+            while (s.StartsWith(trimString))
+            {
+                s = s.Remove(0, trimString.Length);
+            }
+
+            return s;
+        }
+
+        /// <summary>
         /// Returns a ushort hash code for this string (for example useful for autogenerating EventIDs for the Windows Event Log based on the message string)
         /// </summary>
         /// <param name="s">the string</param>
