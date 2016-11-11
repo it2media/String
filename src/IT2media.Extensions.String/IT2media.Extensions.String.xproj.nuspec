@@ -12,7 +12,7 @@
     <description>Extension methods for System.String</description>
     <releaseNotes>Added GetHashCodeUShort</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>String System.String GetHashCode EventID EventId ushort UInt16</tags>
+    <tags>String System.String GetHashCode EventID EventId ushort UInt16 TrimStart</tags>
     <dependencies>
       
     </dependencies>
