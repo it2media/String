@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>IT2media.Extensions.String.xproj</id>
+    <id>IT2media.Extensions.String</id>
     <version>1.0.0</version>
     <authors>Markus Malz</authors>
     <owners>malzma</owners>
@@ -10,9 +10,9 @@
     <iconUrl>https://raw.githubusercontent.com/it2media/Home/master/Logo_IT2media_2015_64x64.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Extension methods for System.String</description>
-    <releaseNotes>Added GetHashCodeUShort</releaseNotes>
+    <releaseNotes>Added GetHashCodeUShort and TrimStart</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>String System.String GetHashCode EventID EventId ushort UInt16</tags>
+    <tags>String System.String GetHashCode EventID EventId ushort UInt16 TrimStart</tags>
     <dependencies>
       
     </dependencies>
