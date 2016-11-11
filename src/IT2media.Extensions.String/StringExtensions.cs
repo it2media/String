@@ -7,6 +7,11 @@ namespace IT2media.Extensions.String
 {
     public static class StringExtensions
     {
+        /// <summary>
+        /// Returns a ushort hash code for this string (for example useful for autogenerating EventIDs for the Windows Event Log based on the message string)
+        /// </summary>
+        /// <param name="s">the string</param>
+        /// <returns>A ushort hash code</returns>
         public static ushort GetHashCodeUShort(this string s)
         {
             return (ushort)GetHashCodeInternal(s);
