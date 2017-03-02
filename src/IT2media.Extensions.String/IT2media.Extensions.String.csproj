@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <Description>Extension methods for System.String</Description>
+    <Copyright>IT2media GmbH &amp; Co. KG 2016</Copyright>
+    <AssemblyTitle>IT2media.Extensions.String</AssemblyTitle>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <Authors>Markus Malz</Authors>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <AssemblyName>IT2media.Extensions.String</AssemblyName>
+    <PackageId>IT2media.Extensions.String</PackageId>
+    <PackageTags>String;System.String;GetHashCode;EventID;EventId;ushort;UInt16;TrimStart</PackageTags>
+    <PackageReleaseNotes>Added GetHashCodeUShort and TrimStart</PackageReleaseNotes>
+    <PackageIconUrl>https://raw.githubusercontent.com/it2media/Home/master/Logo_IT2media_2015_64x64.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/it2media/String</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/it2media/String/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/it2media/String.git</RepositoryUrl>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+</Project>
