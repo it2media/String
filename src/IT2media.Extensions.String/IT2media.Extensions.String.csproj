@@ -5,8 +5,9 @@
 	<SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>IT2media.Extensions.String.snk</AssemblyOriginatorKeyFile>
 	
-	<AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <FileVersion>2.0.0.0</FileVersion>
+	<AssemblyVersion>2.0.0.0</AssemblyVersion> <!-- do not change these anymore while deploying major version 2.* -->
+    <FileVersion>2.0.0.0</FileVersion> <!-- do not change these anymore while deploying major version 2.* -->
+	
     <Version>2.0.0</Version>
 	
 	<Description>Extension methods for System.String</Description>
